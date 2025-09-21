@@ -1,0 +1,12 @@
+{
+  "categories": {
+    "Acceso y problemas con la cuenta online": "Dificultades para registrarse, iniciar sesión o gestionar la cuenta desde la web o app.",
+    "Solicitud o envío de facturas": "Peticiones para recibir, reenviar o consultar facturas específicas.",
+    "Errores o dudas sobre facturación": "Consultas o reclamaciones por importes incorrectos, duplicados o poco claros en las facturas.",
+    "Contratos y documentación": "Solicitud, envío o modificación de contratos y otros documentos oficiales.",
+    "Altas, bajas y cambios de servicio": "Solicitudes para contratar, cancelar o modificar servicios contratados.",
+    "Datos personales y contacto": "Actualización o corrección de información personal, bancaria o de contacto.",
+    "Información comercial y tarifas": "Consultas sobre precios, promociones, descuentos o planes disponibles.",
+    "Suministro y asistencia técnica": "Problemas con el suministro de energía o con equipos técnicos, o dudas sobre interrupciones."
+  }
+}
