@@ -1,5 +1,11 @@
 ## API Definition
 
+This project is a mail classifier for an hypotetical energy company. It reads the mails from the users and distributs them in different classes depending on the content using a zero-shot classifier, in this case the facebook bart as it is a small and fast which can work really good with the complexity of the task.
+
+It reads the data from a SQL file in a Docker file with the bart model.
+
+I made this project to practice the Docker initialization, joining SQL databases and LLM models making it callable and scalable.
+
 **Endpoint:** `/classify-email` 
 
 **Method:** `POST` 
